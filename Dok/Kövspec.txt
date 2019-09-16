@@ -4,6 +4,9 @@ Követelményspecifikáció
 1. Vezetői összefoglaló
 
 2. Jelenlegi helyzet
+Jelenleg is dolgozunk, de hiányzik valami az életünkből, ami megkönnyíti, vagy lehetővé teszi, hogy többre léegyünk képesek.
+Ez a fejezet nem a projektet, hanem a projekt előtti helyzetet muatja be,
+valamint azt, hogy miért van szükség fejlesztésre.
 
 3. Vágyálom rendszer
 
