@@ -10,6 +10,7 @@ Ez a fejezet nem a projektet, hanem a projekt előtti helyzetet muatja be,
 valamint azt, hogy miért van szükség fejlesztésre.
 
 3. Vágyálom rendszer
+Minden, ami jó lenne, hogy ebben a projektben megvalósuljon.
 
 4. Jelenlegi üzleti folyamatok
 
