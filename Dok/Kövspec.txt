@@ -2,6 +2,7 @@ Demó projekt
 Követelményspecifikáció
 
 1. Vezetői összefoglaló
+A projekt és az elkészítendő rendszer nagyvonalú leírása, apró technikai részek nélkül.
 
 2. Jelenlegi helyzet
 Jelenleg is dolgozunk, de hiányzik valami az életünkből, ami megkönnyíti, vagy lehetővé teszi, hogy többre léegyünk képesek.
